@@ -17,8 +17,8 @@ Limpar pedidos e reiniciar o sistema.
 Tecnologias Utilizadas
 Frontend: React Native e Expo.
 Módulos e APIs:
-expo-file-system: para manipulação de arquivos locais.
-expo-sharing: para compartilhamento de arquivos.
+expo-file-system: para manipulação de arquivos locais,
+expo-sharing: para compartilhamento de arquivos e
 React Hooks: para gerenciamento de estados (useState, useRef).
 
 Testado em estabelecimento local e aprovado com implementação e acompanhamento semanal.
