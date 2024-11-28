@@ -6,11 +6,11 @@ Gestão de Pedidos por Cliente,
 Adição de itens ao pedido atual,
 Registro de pedidos para diferentes clientes ou mesas,
 Totalização automática dos pedidos.
-Histórico Diário
-Registro de todos os pedidos realizados no dia.
-Opção de exportar o histórico para um arquivo .txt e compartilhá-lo.
-Possibilidade de limpar o histórico diário.
-Sistema de Controle
+Histórico Diário,
+Registro de todos os pedidos realizados no dia,
+Opção de exportar o histórico para um arquivo .txt e compartilhá-lo,
+Possibilidade de limpar o histórico diário,
+Sistema de Controle,
 Marcar pedidos como prontos.
 Limpar pedidos e reiniciar o sistema.
 
