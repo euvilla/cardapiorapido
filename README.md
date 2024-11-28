@@ -1,10 +1,10 @@
 Esse é o aplicativo Cardapiorapido, feito para o trabalho de extensão da faculdade.
 nele foi colacado funcionabilidades:
-Visualização de Cardápio
+Visualização de Cardápio,
 Exibição de itens do cardápio com nomes, preços e ícones personalizados.
-Gestão de Pedidos por Cliente
-Adição de itens ao pedido atual.
-Registro de pedidos para diferentes clientes ou mesas.
+Gestão de Pedidos por Cliente,
+Adição de itens ao pedido atual,
+Registro de pedidos para diferentes clientes ou mesas,
 Totalização automática dos pedidos.
 Histórico Diário
 Registro de todos os pedidos realizados no dia.
